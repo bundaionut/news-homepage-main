@@ -131,6 +131,10 @@ section > div:first-child{
 .card-content h4{
     font-size: 1.25rem;
 }
+.card-content h4:hover{
+    color: hsl(5, 85%, 63%);
+    cursor: pointer;
+}
 .card-content p{
     color: hsl(233, 8%, 79%);
 }
