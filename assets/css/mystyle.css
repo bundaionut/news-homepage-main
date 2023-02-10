@@ -11,6 +11,7 @@ body{
     margin: 0 auto;
     padding: 1.25rem;
     line-height: 2;
+    background-color: hsl(36, 100%, 99%)
 }
 ul{
     list-style-type:none;
